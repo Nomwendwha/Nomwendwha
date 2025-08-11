@@ -1,5 +1,5 @@
 # 👋 Hello World 
-**`I'm a developer and I use programming to create Bots coding and Another Stuffs.`**
+**`I'm a developer and I use programming to create Bots coding, I am a Backend developer + another stuffs.`**
 
 
 ### 🧑‍💻 Languages & technologies
