@@ -1,5 +1,5 @@
 # 👋 Hello World 
-**`I'm a developer and I use programming to create Bots coding + stuff`**
+**`I'm a developer and I use programming to create Bots coding and Another Stuffs.`**
 
 
 ### 🧑‍💻 Languages & technologies
@@ -73,3 +73,7 @@
 
 <br/>
 <br/>
+
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/1762576275526715737/A5B0A887E090B356DFA0614778197F98B89302BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Stay Here em Estrelas">
+</p>
